@@ -1,0 +1,4 @@
+com/gcit/training/hibernatejpaapp/HibernateJpaAppApplication.class
+com/gcit/training/hibernatejpaapp/dao/PublisherDao.class
+com/gcit/training/hibernatejpaapp/controller/PublisherController.class
+com/gcit/training/hibernatejpaapp/entity/Publisher.class
